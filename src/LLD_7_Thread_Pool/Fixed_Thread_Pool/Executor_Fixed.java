@@ -1,12 +1,15 @@
-package Thread_Pool.Cached_Thread_Pool;
+package LLD_7_Thread_Pool.Fixed_Thread_Pool;
 
-public class CacheExecutor implements Runnable {
+import java.util.concurrent.Executors;
+
+public class Executor_Fixed implements Runnable{
     private  int number;
-    CacheExecutor(int number){
+    Executor_Fixed(int number){
         this.number = number;
     }
     @Override
     public void run(){
         System.out.println("The number is: "+number+" Thread: "+Thread.currentThread().getName());
     }
+
 }

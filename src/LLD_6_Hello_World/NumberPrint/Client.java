@@ -1,4 +1,4 @@
-package NumberPrint;
+package LLD_6_Hello_World.NumberPrint;
 
 public class Client {
     static void main(String[] args) {

@@ -1,6 +1,4 @@
-package Thread_Pool.Cached_Thread_Pool;
-
-import Thread_Pool.Fixed_Thread_Pool.Executor_Fixed;
+package LLD_7_Thread_Pool.Cached_Thread_Pool;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
