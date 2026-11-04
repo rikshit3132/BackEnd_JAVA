@@ -1,4 +1,4 @@
-package LLD_7_Thread_Pool.Cached_Thread_Pool;
+package LLD_7.Cached_Thread_Pool;
 
 public class CacheExecutor implements Runnable {
     private  int number;

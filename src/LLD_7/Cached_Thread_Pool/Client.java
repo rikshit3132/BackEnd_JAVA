@@ -1,4 +1,4 @@
-package LLD_7_Thread_Pool.Cached_Thread_Pool;
+package LLD_7.Cached_Thread_Pool;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;

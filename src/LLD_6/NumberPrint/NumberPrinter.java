@@ -1,4 +1,4 @@
-package LLD_6_Hello_World.NumberPrint;
+package LLD_6.NumberPrint;
 
 public class NumberPrinter implements Runnable {
     private int number;

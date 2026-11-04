@@ -1,6 +1,4 @@
-package LLD_7_Thread_Pool.Fixed_Thread_Pool;
-
-import java.util.concurrent.Executors;
+package LLD_7.Fixed_Thread_Pool;
 
 public class Executor_Fixed implements Runnable{
     private  int number;

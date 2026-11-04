@@ -1,4 +1,4 @@
-package LLD_6_Hello_World;
+package LLD_6.hello_world;
 
 public class HelloWorldPrint implements Runnable {
     @Override
